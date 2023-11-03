@@ -152,7 +152,7 @@
 
     alert('Order submitted!');
 
-    var discordWebhookURL = 'https://discord.com/api/webhooks/1150577363499884695/q-F7MVW_UPghvq1ZJFfxDoOYF-PHsTH5AtMDOcqsSPc3VoapWEtWycynZAEAQnKUr6v8';
+    var discordWebhookURL = 'https://discord.com/api/webhooks/1169866360701067264/BZ3QpnkbDw0xryKGaPNHBqGDcKWcKwJ5z9SZHTD4RsR6oPBoQK9LdSwGFN9sjgeW6TVP';
 
     var xhr = new XMLHttpRequest();
     xhr.open('POST', discordWebhookURL, true);
@@ -221,7 +221,7 @@ function resetCalculator() {
 <div style="margin-bottom: 25px;"></div>
  
 <body style="background-color:lightblue;">
-	<img src="hayes.png" alt="Company Logo!">
+	<img src="ottos.png" alt="Company Logo!">
   <h1>Menu Calculator</h1>
   
   <h2>Menu Items</h2>
@@ -426,7 +426,7 @@ function resetCalculator() {
   
   <div>
     <input type="checkbox" id="uwueats" value="1000$">
-    <label for="Velmachoice">EMS, LEO, DOC, DOJ, UWU & DeathRow A-D - 1000$</label>
+    <label for="Velmachoice">EMS, LEO, DOC, DOJ - 1000$</label>
     <input type="number" value="1" min="1">
   </div>
   
