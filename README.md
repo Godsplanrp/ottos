@@ -333,8 +333,8 @@ function resetCalculator() {
   <h3> Repairs </h3>
   
   <div>
-    <input type="checkbox" id="ColinChoice" value="1400"><!--The price is the value, change that and then the name and itll change on the menu-->
-    <label for="ColinChoice">Standard Repair (D-S Class) - 1,400$</label>
+    <input type="checkbox" id="ColinChoice" value="1200"><!--The price is the value, change that and then the name and itll change on the menu-->
+    <label for="ColinChoice">Standard Repair (D-S Class) - 1,200$</label>
     <input type="number" value="1" min="1">
   </div>
   
