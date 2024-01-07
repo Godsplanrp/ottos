@@ -245,8 +245,8 @@ function resetCalculator() {
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="8000$">
-    <label for="Davechoice">Engine Tier 3 - 8000$</label>
+    <input type="checkbox" id="Davechoice" value="7000$">
+    <label for="Davechoice">Engine Tier 3 - 7000$</label>
     <input type="number" value="1" min="1">
   </div>
   
@@ -267,8 +267,8 @@ function resetCalculator() {
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="5000$">
-    <label for="Davechoice">Suspension Tier 3 - 5000$</label>
+    <input type="checkbox" id="Davechoice" value="4000$">
+    <label for="Davechoice">Suspension Tier 3 - 4000$</label>
     <input type="number" value="1" min="1">
   </div>
   
@@ -289,8 +289,8 @@ function resetCalculator() {
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="7000$">
-    <label for="Davechoice">Transmission Tier 3 - 7000$</label>
+    <input type="checkbox" id="Davechoice" value="6000$">
+    <label for="Davechoice">Transmission Tier 3 - 6000$</label>
     <input type="number" value="1" min="1">
   </div>
   
@@ -311,8 +311,8 @@ function resetCalculator() {
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="8000$">
-    <label for="Davechoice">Brakes Tier 3 - 8000$</label>
+    <input type="checkbox" id="Davechoice" value="7000$">
+    <label for="Davechoice">Brakes Tier 3 - 7000$</label>
     <input type="number" value="1" min="1">
   </div>
   
@@ -447,7 +447,7 @@ function resetCalculator() {
 </div>
 
 <div class="total-box">
-  <span>Commision (5%): $</span>
+  <span>Commision (10%): $</span>
   <span id="discount-total">0.00</span>
 </div>
 
