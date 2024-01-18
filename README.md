@@ -179,7 +179,7 @@
             inline: true
           },
           {
-            name: 'Commission (5%)',
+            name: 'Commission (10%)',
             value: '$' + commission,
             inline: true
           },
