@@ -319,8 +319,8 @@ function resetCalculator() {
   <h3>Turbo</h3>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="12000$">
-    <label for="Davechoice">Turbo - 12000$</label>
+    <input type="checkbox" id="Davechoice" value="10000$">
+    <label for="Davechoice">Turbo - 10000$</label>
     <input type="number" value="1" min="1">
   </div>
   
@@ -343,8 +343,8 @@ function resetCalculator() {
   <h3>Misc.</h3>
 
 <div>
-  <input type="checkbox" id="MysteryGift" value="325" >
-  <label for="MysteryBox">Single Lockpick - $325</label>
+  <input type="checkbox" id="MysteryGift" value="200" >
+  <label for="MysteryBox">Single Lockpick - $200</label>
   <input type="number" value="1" min="1">
 </div>
 
@@ -367,8 +367,8 @@ function resetCalculator() {
 </div>
 
 <div>
-  <input type="checkbox" id="MysteryGift" value="500" >
-  <label for="MysteryBox">Cleaning Kit - $500</label>
+  <input type="checkbox" id="MysteryGift" value="300" >
+  <label for="MysteryBox">Cleaning Kit - $300</label>
   <input type="number" value="1" min="1">
 </div>
 
