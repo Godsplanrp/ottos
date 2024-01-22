@@ -324,7 +324,11 @@ function resetCalculator() {
     <input type="number" value="1" min="1">
   </div>
   
-  
+   <div>
+    <input type="checkbox" id="Davechoice" value="1200$">
+    <label for="Davechoice">Ottos Repair pack  - 1200$</label>
+    <input type="number" value="1" min="1">
+  </div>
   
   
   
