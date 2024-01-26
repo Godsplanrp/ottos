@@ -92,8 +92,8 @@
       var quantity = parseInt(quantityInput.value);
       var price = parseFloat(checkbox.value);
 
-      if (checkbox.value === '-25%') {
-        var itemPrice = total * 0.25;
+      if (checkbox.value === '-20%') {
+        var itemPrice = total * 0.20;
         total -= itemPrice;
       } else if (checkbox.value === '-30%') {
         var itemPrice = total * 0.3;
