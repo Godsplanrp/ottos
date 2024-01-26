@@ -403,7 +403,7 @@ function resetCalculator() {
 
 <div>
   <input type="checkbox" id="20off" value="-20%">
-  <label for="20off">Employee Discount - 20% off</label>
+  <label for="20off">Employee Discount - 20%off</label>
   <input type="number" value="1" min="1" max="1">
 </div>
 
