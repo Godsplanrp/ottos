@@ -332,7 +332,21 @@ function resetCalculator() {
     <input type="number" value="1" min="1">
   </div>
   
+  <h3>NOS</h3>
   
+   <div>
+    <input type="checkbox" id="Davechoice" value="18000$">
+    <label for="Davechoice">Nos  - 18000$</label>
+    <input type="number" value="1" min="1">
+  </div>
+  
+  <h3>HARNESS</h3>
+  
+   <div>
+    <input type="checkbox" id="Davechoice" value="28000$">
+    <label for="Davechoice">Harness  - 28000$</label>
+    <input type="number" value="1" min="1">
+  </div>
   
   
   
