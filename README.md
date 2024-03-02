@@ -419,14 +419,7 @@ function resetCalculator() {
 
 <div style="margin-bottom: 10px;"></div>
   
-  <h3> Discount Items</h3> 
-
-<div>
-  <input type="checkbox" id="20off" value="-20%">
-  <label for="20off">Employee Discount - 20%off</label>
-  <input type="number" value="1" min="1" max="1">
-</div>
-
+ 
 <h3> Towing </h3>
   
   <div>
